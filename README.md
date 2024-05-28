@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Eu sou o Gabriel, tenho 17 anos
+eu gosto da area de matematica
+pretendo fazer faculdade de economia na usp ou na fecap
 <!--
 **standen006/standen006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
